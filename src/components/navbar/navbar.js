@@ -18,9 +18,7 @@ export const Navbar = () => {
     <header>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark container-fluid p-3">
         <div className="container-fluid">
-          <a className="navbar-brand" href="/">
-            CLOTHES
-          </a>
+          <h3 className="navbar-brand mt-0 mb-0">CLOTHES</h3>
           <button
             className="navbar-toggler"
             type="button"
